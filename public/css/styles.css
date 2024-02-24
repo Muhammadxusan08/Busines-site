@@ -1136,7 +1136,8 @@ border: 1.5px solid rgba(255, 255, 255, 0.2);
 border-radius: 10px;
 
 }
-.input{
+input{
+    
 }
 
 .input::-moz-placeholder{
